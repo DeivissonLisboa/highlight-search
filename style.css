@@ -63,3 +63,7 @@ p {
   letter-spacing: 0.1rem;
   line-height: 2rem;
 }
+
+mark {
+  background-color: #ffdd4b;
+}
